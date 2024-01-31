@@ -31,4 +31,6 @@ Refer the repository for the circuit Diagram.
 1. Clone this repository to your local machine.
 2. use and modify the code as per your need and properly connect the hardware as it is shown in the circuit diagram (uploaded to this repository).
 
+## Contributions and Issues
 
+- Contributions and bug reports are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/Aditya-164/Fire-Extinguisher-Robot-with-Sensors/issues).
