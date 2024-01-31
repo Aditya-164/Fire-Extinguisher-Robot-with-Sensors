@@ -1,6 +1,6 @@
 # Fire-Extinguisher-Robot-with-Sensors
 
-![Fire Extinguisher Robot](https://iiitaphyd-my.sharepoint.com/:i:/g/personal/adityaraj_singh_students_iiit_ac_in/EVvOU8CYcW5CsxSi4IpRDb0BG7yl3WonXeVuAv-zNhL-cQ?e=nITyi1)
+![Fire Extinguisher Robot](https://iiitaphyd-my.sharepoint.com/personal/adityaraj_singh_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadityaraj%5Fsingh%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2Frobot%5F2%2Ejpg&parent=%2Fpersonal%2Fadityaraj%5Fsingh%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments&ga=1)
 
 ## Overview
 
